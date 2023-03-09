@@ -15,7 +15,7 @@
  </div>      
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelaira&hide=hack,php&theme=onedark)](https://github.com/alexandrelaira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrelaira&hide=hack,php&theme=onedark&layout=compact)](https://github.com/alexandrelaira/github-readme-stats)
 
 <br>
 
