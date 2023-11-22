@@ -1,5 +1,5 @@
 ### Alexandre Laira
-##### Desenvolvedor Front-end 💻
+##### Desenvolvedor Front-end | RPA 💻
 #
 
 ### Tecnologias
