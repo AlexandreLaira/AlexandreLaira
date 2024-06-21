@@ -1,5 +1,5 @@
 ### Alexandre Laira
-##### Desenvolvedor Front-end 💻
+##### Analista de dados e desenvolvedor nas horas vagas 💻
 #
 
 ### Tecnologias
